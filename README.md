@@ -7,6 +7,6 @@ This code is a part of the article **Exploring the new Hub Control in Windows 8.
 
 * Author  : [Sumit Maitra](http://www.dotnetcurry.com/Author.aspx?AuthorName=Sumit+Maitra)
 * Twitter : [@sumitkm](http://www.twitter.com/sumitkm)
-* Date    : September 2013
+* Date    : November 2013
 * WebSite : [DNC Magazine](http://www.dncmagazine.com)
-* GitHub  : [Repository Here](https://github.com/dotnetcurry/ko-calendar-dncmag-08)
+* GitHub  : [Repository Here](https://github.com/dotnetcurry/winrt-81-hub-control)
